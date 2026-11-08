@@ -1,5 +1,7 @@
 # KZ Text Tools
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dos1k77/kz-text-tools/blob/main/demo.ipynb)
+
 A command-line toolkit for working with Kazakh, Russian and English text:
 
 | Command     | What it does                                   | Needs API key |
